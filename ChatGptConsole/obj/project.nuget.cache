@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNNlI6gJ8OftzEN14RYpxwEICDkQ5jvK7Rv75fz8RK+CfnV7UijqTVUZ+YWEnjBZ65GVtukB5wHziNGH29LWSA==",
+  "success": true,
+  "projectFilePath": "/Users/gs/Desktop/ChatGpt/ChatGptConsole/ChatGptConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/gs/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/gs/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/gs/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
